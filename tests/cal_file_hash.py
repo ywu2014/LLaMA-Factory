@@ -13,6 +13,6 @@ def calculate_sha1(file_path):
         return "File not found."
  
 # 使用示例
-file_path = './data/self_introduction_data.json'  # 替换为您的文件路径
+file_path = './data/汽车零件热处理实用技术_llamaParse.json'  # 替换为您的文件路径
 sha1_hash = calculate_sha1(file_path)
 print("SHA-1 Hash:", sha1_hash)

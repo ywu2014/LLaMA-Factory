@@ -1,0 +1,537 @@
+[
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 Transfer 出现故障 轨道卡夹具 该如何解决?",
+        "input": "",
+        "output": "分离器前端卡夹具，计划TPM更换衬条, 更换衬条后正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Durr 出现故障 小真空泵发热，NAOH温度报警 该如何解决?",
+        "input": "",
+        "output": "温度高, 重新插拔电磁阀恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Durr 出现故障 轨道感应器无信号 该如何解决?",
+        "input": "",
+        "output": "轨道卡框, 取出后清数据恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Durr 出现故障 NAoh罐温度报错 该如何解决?",
+        "input": "",
+        "output": "复位生产无异常, 跟踪观察中"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line2 的设备 CRIN Testing line2 HD 出现故障 轨油缸接头漏油 该如何解决?",
+        "input": "",
+        "output": "3号回油接头漏油, 更换连接件，密封锥无效，停机时间更换轨"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 EMI1,2 出现故障 ELV线更换 该如何解决?",
+        "input": "",
+        "output": "GNS不过，生产要求更换ELV线, 更换后正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 HPC 出现故障 气缸不到位 该如何解决?",
+        "input": "",
+        "output": "风切气缸气管破裂, 更换气管后并调整节流阀后正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 冲刷一节拍慢0.3S冲刷一下气缸漏水 该如何解决?",
+        "input": "",
+        "output": "节拍不好, 调整恢复"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 EMI3,4 出现故障 3#机械臂报错 该如何解决?",
+        "input": "",
+        "output": "检测机械臂传感器损坏, 更换备件后正常"
+    },
+    {
+        "instruction": "产线 Grinding 的设备 EG machine 出现故障 NEXT1缩回报错，设备不动 该如何解决?",
+        "input": "",
+        "output": "WPC上料处报警, 检查上料处顶升气缸在上端，排空后再次生产不好，发现转盘感应感应底座传感器无信号，调整，试机时出现WPC板在大盘上料处报警，紧固各个传感器接头，单个板放，恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 热吹风故障 该如何解决?",
+        "input": "",
+        "output": "热吹风工位底部传感器接触不好, 重新紧固后OK"
+    },
+    {
+        "instruction": "产线 CRI magnet line 1 的设备 st20 出现故障 体加油漏油 该如何解决?",
+        "input": "",
+        "output": "接头漏油, 重新紧固恢复"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 EMI1,2 出现故障 1号EMI轨漏油 该如何解决?",
+        "input": "",
+        "output": "连接泄压阀L型高压硬管有沙眼漏油, 更换油管后正常"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 Elec_laser 出现故障 电检测线断开 该如何解决?",
+        "input": "",
+        "output": "电检测线断开, 重新压接铜鼻子，安装后正常"
+    },
+    {
+        "instruction": "产线 CRIN magnet line 1 的设备 ST40 visual inspection welding lace and o-ring 出现故障 设备不工作  无报警 该如何解决?",
+        "input": "",
+        "output": "设备不工作 无报警, 1、检查感应体到位传感器正常2、检查照相系统正常3、待观察"
+    },
+    {
+        "instruction": "产线 CRIN Assembly Line1 的设备 ST60 setting AL and OL 出现故障 自动上料机卡弹簧 该如何解决?",
+        "input": "",
+        "output": "加弹簧装置卡弹簧, 检查挡料气缸卡滞，手动多次气缸后试机正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 冲刷一工位回不到原点 该如何解决?",
+        "input": "",
+        "output": "冲刷一无动作, 气缸串气更换气缸后恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 strama 2 出现故障 WPC板报错 该如何解决?",
+        "input": "",
+        "output": "怀疑电磁阀内部阀芯卡滞, 库里未有该 相同备件，临时用WD40清洁润滑，观察"
+    },
+    {
+        "instruction": "产线 Grinding 的设备 EG machine 出现故障 更换舱门2传感器 该如何解决?",
+        "input": "",
+        "output": "TPM时间更好2号门感应块, TPM时间更好2号门感应块"
+    },
+    {
+        "instruction": "产线 CRIN Assembly Line2 的设备 ST60 setting AL and OL 出现故障 传送带故障 该如何解决?",
+        "input": "",
+        "output": "小轨道到位传感器没回位, 重新安装固定座OK"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 高压故障 该如何解决?",
+        "input": "",
+        "output": "高压第二次超压, 更换高压换向阀正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 高压压力第二次超上限 该如何解决?",
+        "input": "",
+        "output": "高压第二次370BAR，超过上限, 调整喷头暂时生产"
+    },
+    {
+        "instruction": "产线 Washing 的设备 strama 2 出现故障 报错 该如何解决?",
+        "input": "",
+        "output": "上料位锁紧气缸不到位, 调整节流阀后OK"
+    },
+    {
+        "instruction": "产线 CRI magnet line 1 的设备 st10 出现故障 配电柜门门锁坏 该如何解决?",
+        "input": "",
+        "output": "配电柜门锁不上, 门锁变形，重新调整后OK"
+    },
+    {
+        "instruction": "产线 Washing 的设备 HPC 出现故障 设备漏气 该如何解决?",
+        "input": "",
+        "output": "设备漏气, 检查为隔膜泵供气管有裂纹漏气，剪断损坏部分重新连接恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Torque&tension  出现故障 回液泵无动作 该如何解决?",
+        "input": "",
+        "output": "气缸回位不到位, 调整传感器位置恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 HPC 出现故障 清洗工位喷淋气缸上升异常 该如何解决?",
+        "input": "",
+        "output": "清洗工位喷淋气缸上升不到位, 调整传感器位置恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 strama 2 出现故障 上下料工位WPC顶升不到位 该如何解决?",
+        "input": "",
+        "output": "wpc释放气缸不动作，怀疑换向阀故障, 更换电磁阀，并改造更改接线方式"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Torque&tension  出现故障 空气滤芯歪斜，滴油 该如何解决?",
+        "input": "",
+        "output": "三联件漏气，更换三联件正常。, 三联件漏气，更换三联件正常。"
+    },
+    {
+        "instruction": "产线 CRI Testing Line2 的设备 CRI_testing line2 HD 出现故障 轨道卡夹具 该如何解决?",
+        "input": "",
+        "output": "wpc卡板, 调整气缸运动速度恢复正常"
+    },
+    {
+        "instruction": "产线 CRI magnet line 1 的设备 ST60.2 plastic injection 出现故障 传感器异常 该如何解决?",
+        "input": "",
+        "output": "顶料油缸顶杆产期复位时闪烁, 紧固位移传感器插头工作观察正常"
+    },
+    {
+        "instruction": "产线 CRI magnet line 1 的设备 ST60.2 plastic injection 出现故障 转盘异常 该如何解决?",
+        "input": "",
+        "output": "顶针到位传感器异常, 生产调整顶针下降速度恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 HPC 出现故障 气缸不到位 该如何解决?",
+        "input": "",
+        "output": "漂洗仓风切气缸向前传感器无信号, 调整气缸气量及传感器位置工作观察正常"
+    },
+    {
+        "instruction": "产线 CRIN magnet line 2 的设备 ST30 Greasing O-ring Coil assemble 出现故障 打孔 该如何解决?",
+        "input": "",
+        "output": "生产要求将电磁铁打孔, 按生产要求打孔后正常"
+    },
+    {
+        "instruction": "产线 CRI magnet line 1 的设备 st20 出现故障 液压站输出压力小 该如何解决?",
+        "input": "",
+        "output": "生产过程中，压力突然变小, 调整液压站压力后正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 清洗1-40bar压力-电子表数值超出范围 该如何解决?",
+        "input": "",
+        "output": "清洁1-40bar压力-电子表数值超出范围, 检查喷嘴正常，随后调整旁通阀压力后正常"
+    },
+    {
+        "instruction": "产线 CRI Testing Line2 的设备 CRI_testing line2 Recursion station 出现故障 FA1后轨道不动 该如何解决?",
+        "input": "",
+        "output": "轨道自动停止, 1，检查报警发现716电机报错，更换电机；2，试机轨道仍自动停止，检查后包装后侧电机热报错；3，经工程师确认暂时屏蔽，将电机线拆下，周末处理。"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 不复位 该如何解决?",
+        "input": "",
+        "output": "无法复位, 热吹风下气缸及真空工位上气缸未到位，手动复位OK"
+    },
+    {
+        "instruction": "产线 CRIN Assembly Line1 的设备 ST90 screw magnet nut 出现故障 离合器脱开，需检查离合器脱开力 该如何解决?",
+        "input": "",
+        "output": "离合器脱开扭力检查 , 检查扭力18N打不开，19N左右打开，正常。"
+    },
+    {
+        "instruction": "产线 Grinding 的设备 shim 出现故障 去毛刺2号缸水管漏水 该如何解决?",
+        "input": "",
+        "output": "水泵接口漏水, 加卡箍紧固后正常"
+    },
+    {
+        "instruction": "产线 CRIN Assembly Line1 的设备 ST30 screw valve retaining nut 出现故障 吸取球座气缸速度不稳定，导致球座位置错误 该如何解决?",
+        "input": "",
+        "output": "球座异常掉落, 加装调压阀后OK"
+    },
+    {
+        "instruction": "产线 Washing 的设备 HPC 出现故障 气缸不到位 该如何解决?",
+        "input": "",
+        "output": "HPC风切工位伸出报错, 检查发现气管漏气，更换后故障未消除，检查发现传感器位置报错，调整后试机发现清洗工位上升传感器报错，调整后试机正常"
+    },
+    {
+        "instruction": "产线 CRIN magnet line 1 的设备 ST50  leakage test,screw connector assembly,laser  出现故障 安全门异响 该如何解决?",
+        "input": "",
+        "output": "气缸串气, 更换气缸恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 HPC 出现故障 设备漏气 该如何解决?",
+        "input": "",
+        "output": "清洁1供气管路损坏, 剪去损坏部分的气管重新连接恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Cleanliness Test Bench  出现故障 管路掉入小零件 该如何解决?",
+        "input": "",
+        "output": "小零件卡在管路, 拆卸管路接头取出零件恢复"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 FA1 出现故障 FA1报错不工作 该如何解决?",
+        "input": "",
+        "output": "换型610后海德汉测量下降气缸下降到位传感器无信号, 传感器无信号，生产确认工装无异常，工件无异常，对传感器位置调整，使气缸下降到位有信号，试机恢复"
+    },
+    {
+        "instruction": "产线 CRIN Assembly Line2 的设备 ST60 setting AL and OL 出现故障 轨道卡 该如何解决?",
+        "input": "",
+        "output": "卡WPC,电磁阀得电，输出气慢, 用WD40清洁电磁阀后恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 压力表异常 该如何解决?",
+        "input": "",
+        "output": "压力表出库, 压力表出库"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Torque&tension  出现故障 回液泵更换 该如何解决?",
+        "input": "",
+        "output": "隔膜泵偶尔不动作, 重新更换隔膜泵恢复"
+    },
+    {
+        "instruction": "产线 CRI Testing Line2 的设备 CRI_testing line2 EMI5,6 出现故障 液压报错 该如何解决?",
+        "input": "",
+        "output": "电磁阀线圈电阻异常, 更换线圈恢复"
+    },
+    {
+        "instruction": "产线 UPS 的设备 Function test 出现故障 测试台联轴器钢片断裂，需要更换 该如何解决?",
+        "input": "",
+        "output": "测试台联轴器钢片断裂，需要更换, 更换新钢片，试机正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Torque&tension  出现故障 蜡液流量低报警 该如何解决?",
+        "input": "",
+        "output": "液位报警, 让生产加液，工作中"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line2 的设备 CRIN_testing line2 EMI5,6 出现故障 轨压报错 该如何解决?",
+        "input": "",
+        "output": "轨压报错, 重新插拔轨压传感器接头正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 HPC 出现故障 空气加热保护 该如何解决?",
+        "input": "",
+        "output": "机械温控保护断开, 温控电源线脱开，重新紧固恢复"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 EMI3,4 出现故障 夹爪不动作 该如何解决?",
+        "input": "",
+        "output": "气缸不动作, 更换节流阀恢复"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line2 的设备 CRIN Testing line2 PA2 出现故障 气缸传感器不亮。 该如何解决?",
+        "input": "",
+        "output": "气缸传感器常亮, 调整传感器后正常"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 Transfer 出现故障 卡箍后读写器处不动作 该如何解决?",
+        "input": "",
+        "output": "卡箍工位分离器不放行, 偶尔出现，观察发现051201E传感器有时还亮，调整传感器后OK"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Torque&tension  出现故障 蜡液溢出 该如何解决?",
+        "input": "",
+        "output": "蜡液溢出, 调整回液泵压力后正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Durr 2 出现故障 设备故障 该如何解决?",
+        "input": "",
+        "output": "自动工作时工作到第九步，无报错停机, 1，重复试机一次不好，断电重启一次不好，检查蒸馏罐水箱压力低，补水后试机正常。"
+    },
+    {
+        "instruction": "产线 CRI Assembly Line1 的设备 st35 出现故障 USB接口无法使用确认 该如何解决?",
+        "input": "",
+        "output": "USB接口不能用，取出封口正常。, USB接口不能用，取出封口正常。"
+    },
+    {
+        "instruction": "产线 Washing 的设备 strama 2 出现故障 上下料气缸传感器故障，门不上升 该如何解决?",
+        "input": "",
+        "output": "防护门传感器报错，手动复位后正常。, 防护门传感器报错，手动复位后正常。"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 EMI3,4 出现故障 回油不对中 该如何解决?",
+        "input": "",
+        "output": "回油不对中, 调整回油接头与工装回油口对中后工作，观察正常"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 EMI3,4 出现故障 4号回油报错 该如何解决?",
+        "input": "",
+        "output": "4号回油报错, 调整回油接头与WPC回油口对中后正常"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 EMI1,2 出现故障 压力保护膜破 该如何解决?",
+        "input": "",
+        "output": "设备工作时无压力, 拆检压力保护膜片破，弹簧变形，更换膜片及弹簧后正常"
+    },
+    {
+        "instruction": "产线 CRI Testing Line2 的设备 CRI_testing line2 Transfer 出现故障 id40不读 该如何解决?",
+        "input": "",
+        "output": "id40读完后分离器不动作, 更换电磁阀恢复正常"
+    },
+    {
+        "instruction": "产线 CRI Assembly Line2 的设备 st10 出现故障 O型圈装置故障 该如何解决?",
+        "input": "",
+        "output": "加O型圈插针断, 协助生产更换O型圈插针"
+    },
+    {
+        "instruction": "产线 Washing 的设备 strama 2 出现故障 设备卡住 该如何解决?",
+        "input": "",
+        "output": "隔断门上升后不到位, 手动复位后恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 strama 2 出现故障 舱门气缸频繁报警 该如何解决?",
+        "input": "",
+        "output": "隔断门上升到位传感器无信号, 调整到位传感器位置后恢复"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Durr 出现故障 工作仓显示满 该如何解决?",
+        "input": "",
+        "output": "底部水位传感器报错，手动复位正常。, 底部水位传感器报错，手动复位正常。"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Torque&tension  出现故障 回液泵不工作 该如何解决?",
+        "input": "",
+        "output": "隔膜泵偶尔不打液, 更换气阀恢复"
+    },
+    {
+        "instruction": "产线 CRI magnet line 1 的设备 ST60.2 plastic injection 出现故障 传送带不转 该如何解决?",
+        "input": "",
+        "output": "传送带不转, 检查发现皮带驱动轴与滚轮的顶螺丝松动导致，重新紧固顶螺丝后正常"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 EMI3,4 出现故障 4号高压油管泄漏 该如何解决?",
+        "input": "",
+        "output": "高压表接头处漏油, 更换接头密封后正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 排液泵故障 该如何解决?",
+        "input": "",
+        "output": "隔膜泵故障, 更换膜片"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Torque&tension  出现故障 回液泵不打液 该如何解决?",
+        "input": "",
+        "output": "回液泵不打液, 更换回液隔膜泵试机正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 strama 2 出现故障 热泵不运转 该如何解决?",
+        "input": "",
+        "output": "冲刷2热泵无流量, 多次手动阀门将管路中的空气排空，调试正常"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 Elec_laser 出现故障 自动断气 该如何解决?",
+        "input": "",
+        "output": "设备急停回路无法复位，没有报警信息, 断电重启两次后正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 strama 2 出现故障 气锁漏气 该如何解决?",
+        "input": "",
+        "output": "气锁漏气, 更换新备件后正常"
+    },
+    {
+        "instruction": "产线 Grinding 的设备 supfina 2 出现故障 过滤罐油管堵塞 该如何解决?",
+        "input": "",
+        "output": "回油管堵塞, 磨削油过滤装置回油管堵塞，导致回油泄露将回油管拆下清洁疏通后安装试机正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 strama 2 出现故障 安全门报错 该如何解决?",
+        "input": "",
+        "output": "安全门故障, 正常工作中出现安全门报警，现场检查未见异常点消报错后可恢复生产，连续观察20分钟再未出现与生产协商后关单 "
+    },
+    {
+        "instruction": "产线 CRIN magnet line 1 的设备 ST10 core housing assembly and laser welding 出现故障 无法上气 该如何解决?",
+        "input": "",
+        "output": "设备不能上气，检查急停回路正常，安全模块无输出，更换安全继电器恢复正常。, 设备不能上气，检查急停回路正常，安全模块无输出，更换安全继电器恢复正常。"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line2 的设备 CRIN Testing line2 HD 出现故障 轨道推拉门支撑杆脱落 该如何解决?",
+        "input": "",
+        "output": "轨道推拉门支撑型材脱落,用新的型材安装不合适，临时当支撑后，拆下旧的型材加工U型孔，安装后恢复。, 轨道推拉门支撑型材脱落,用新的型材安装不合适，临时当支撑后，拆下旧的型材加工U型孔，安装后恢复。"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 大盘不动作 该如何解决?",
+        "input": "",
+        "output": "转盘不动作，舱门上升到位传感器不亮, 2号传感器长亮，临时切换原状态使用。计划停机时间检查传感器"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 下气缸不动作 该如何解决?",
+        "input": "",
+        "output": "热吹风工位下部气缸传感器损坏, 更换传感器后正常"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 热吹风下气缸不在位 该如何解决?",
+        "input": "",
+        "output": "热吹风工位底部气缸传感器常亮, 拆下传感器一直有信号，更换线正常。"
+    },
+    {
+        "instruction": "产线 Washing 的设备 Strama1 出现故障 气压表显示错误 该如何解决?",
+        "input": "",
+        "output": "压力表无数值, 更换压力表后恢复正常"
+    },
+    {
+        "instruction": "产线 CRI Assembly Line2 的设备 st20 出现故障 气缸顶头传感器损坏 该如何解决?",
+        "input": "",
+        "output": "支撑环顶升气缸传感器不亮, 重新更换气缸传感器恢复"
+    },
+    {
+        "instruction": "产线 CRIN Assembly Line2 的设备 ST40 setting magnet spring force 出现故障 轨道卡 该如何解决?",
+        "input": "",
+        "output": "轨道夹具上升时慢, 调整检测夹具传感器后正常，跟踪观察正常"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 EMI3,4 出现故障 升降块传感器不亮 该如何解决?",
+        "input": "",
+        "output": "传感器不亮, 检查传感器无异常，更换传感器线恢复"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 EMI3,4 出现故障 4号EMI升降气缸卡夹具 该如何解决?",
+        "input": "",
+        "output": "卡wpc板, 调整顶升气缸对中恢复"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 HD 出现故障 WPC气缸动作缓慢 该如何解决?",
+        "input": "",
+        "output": "气缸运行速度慢, 调整节流阀后故障解决"
+    },
+    {
+        "instruction": "产线 CRI Testing Line2 的设备 CRI_testing line2 EMI5,6 出现故障 液压报错 该如何解决?",
+        "input": "",
+        "output": "设备无液压, 开关跳闸，合闸后恢复"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line medium supply 出现故障 10：40供油中心更换滤芯。 该如何解决?",
+        "input": "",
+        "output": "供油中心滤芯到期，计划更换。, 供油中心滤芯到期，计划更换。"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line2 的设备 CRIN_testing line2 EMI5,6 出现故障 5#机械臂缓冲器损坏 该如何解决?",
+        "input": "",
+        "output": "缓冲器损坏, 更换缓冲器。"
+    },
+    {
+        "instruction": "产线 CRI Testing Line2 的设备 CRI_testing line2 EMI1,2 出现故障 2号机械臂不动作 该如何解决?",
+        "input": "",
+        "output": "摆臂无动作, 摆臂上升信号无，互换传感器判断传感器损坏，更换后恢复"
+    },
+    {
+        "instruction": "产线 CRIN Assembly Line1 的设备 ST90 screw magnet nut 出现故障 拧紧角度偏差， 该如何解决?",
+        "input": "",
+        "output": "拧紧角度偏差, 检查扭力离合器未见异常，感应离合器脱开传感器检查调整，生产人员重新修正角度恢复生产"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 Elec_laser 出现故障 刻字机前分离器卡夹具 该如何解决?",
+        "input": "",
+        "output": "WPC卡板, 更换衬条恢复"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 Transfer 出现故障 HD与EMI轨道旋转气缸处卡夹具 该如何解决?",
+        "input": "",
+        "output": "HD后端旋转气缸处分离器卡夹具, HD后端旋转气缸处卡夹具将陈条下面垫塑料垫片后试机正常"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 HD 出现故障 高压油表接头处漏油 该如何解决?",
+        "input": "",
+        "output": "压力表漏油, 密封盘O型圈损坏，重新更换密封盘恢复"
+    },
+    {
+        "instruction": "产线 CRI Testing Line2 的设备 CRI_testing line2 EMI7,8 出现故障 7#高压油管漏油 该如何解决?",
+        "input": "",
+        "output": "连接高压表高压管损坏, 更换高压管恢复"
+    },
+    {
+        "instruction": "产线 CRI Testing Line2 的设备 CRI_testing line2 EMI7,8 出现故障 7号高压油管泄漏 该如何解决?",
+        "input": "",
+        "output": "7号高压软管泄漏, 更换高压油管后正常"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 EMI1,2 出现故障 更换高压油管 该如何解决?",
+        "input": "",
+        "output": "高压油表软管代替硬管, 无备件，待购买后安装更换"
+    },
+    {
+        "instruction": "产线 CRIN Testing Line1 的设备 CRIN_testing line1 EMI1,2 出现故障 压力保护膜破 该如何解决?",
+        "input": "",
+        "output": "压力保护膜破损, 更换压力保护膜，更换弹簧恢复"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 EMI3,4 出现故障 3#压力保护膜破裂 该如何解决?",
+        "input": "",
+        "output": "设备工作时无压力, 更换压力保护膜正常，拆检弹簧正常"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 EMI7,8 出现故障 变频器报错 该如何解决?",
+        "input": "",
+        "output": "电机空开跳闸, 检查电机无异常，更换变频器下载无法启动，再次更换变频器下载参数恢复生产"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 EMI1,2 出现故障 2#bit5报错 该如何解决?",
+        "input": "",
+        "output": "bit5报错, 对调ELV板卡不好，更换ELV阀不好，调整升程压力后正常"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 PA1 出现故障 垫片镜头不显示 该如何解决?",
+        "input": "",
+        "output": "无图片输出, 床体下侧相机供电插头松动，无供电，安装供电插头后恢复。"
+    },
+    {
+        "instruction": "产线 CRI Testing Line1 的设备 CRI_testing line1 EMI3,4 出现故障 4#WPC定位销故障 该如何解决?",
+        "input": "",
+        "output": "4号WPC定位销不下降, 电磁阀卡滞，更换电磁阀正常。"
+    }
+]

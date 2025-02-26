@@ -395,5 +395,29 @@
   "self_introduction": {
     "file_name": "self_introduction_data.json",
     "file_sha1": "3f2b85dfc2e0e8f3e377786317539a354b657ab2"
+  },
+  "Bosch_fault_ft": {
+    "file_name": "Bosch_fault_ft.json",
+    "file_sha1": "13bed5294da58830612c4af220f2ebb802bc5d7a"
+  },
+  "Automobile_cpt_1": {
+    "file_name": "汽车材料技术_llamaParse.json",
+    "file_sha1": "5d760c0951894bc1af58e79a9c0b7f3ed335ebb4"
+  },
+  "Automobile_cpt_2": {
+    "file_name": "汽车离合器设计与制造_llamaParse.json",
+    "file_sha1": "49aa44183b54c62cc22b37a0a4148ec8fea0de29"
+  },
+  "Automobile_cpt_3": {
+    "file_name": "汽车覆盖件模具设计与制造全过程检验图解_llamaParse.json",
+    "file_sha1": "801cd5a98ecb521af50978366f098ac905077500"
+  },
+  "Automobile_cpt_4": {
+    "file_name": "汽车轻量化——材料、设计与制造_llamaParse.json",
+    "file_sha1": "225b785ba887b15e3e3ce185110386e26fb458c4"
+  },
+  "Automobile_cpt_5": {
+    "file_name": "汽车零件热处理实用技术_llamaParse.json",
+    "file_sha1": "5ca8d2cec57137f60d247ec72cb1e86234ac41c5"
   }
 }
